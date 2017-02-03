@@ -1,0 +1,41 @@
+html{
+	height: 100%;
+}
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1485617072925-54726ae8ce6b?dpr=2&amp;auto=format&amp;fit=crop&amp;w=1199&amp;h=770&amp;q=80&amp;cs=tinysrgb&amp;crop=);
+	background-size: cover;
+}
+
+
+.container{
+	text-align: center;
+	padding-top: 18%;
+
+}
+
+h1{
+	color: red;
+	font-family: 'Anton', sans-serif;
+	font-weight: 700;
+	font-size: 60px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+p{
+	color: red;
+	font-family: 'Anton', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+hr{
+	border-top: 5px solid #ffffff;
+	width: 50%;
+}
+
+
+
+
+
+/*http://gratisography.com/pictures/316_1.jpg*/
