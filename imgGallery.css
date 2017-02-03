@@ -1,0 +1,32 @@
+body{
+	background-color: green;
+}
+
+
+.thumbnail{
+	border: 5px solid #000000;
+}
+
+.container{
+	background-color: black;
+}
+
+.jumbotron{
+	background-color: #e60000;
+	text-align: center;
+	color: black;
+}
+
+.thumbnail img {
+    height:250px;
+    width:100%;
+}
+
+.navbar-inverse{
+	background-color: green;
+	border-color: green;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color: white;
+}
